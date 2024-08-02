@@ -1,0 +1,3 @@
+make -f Makefile.atos
+export LD_LIBRARY_PATH=$SCRATCH/ROAD_MODEL/ROADSURF/RoadSurf:$LD_LIBRARY_PATH
+
